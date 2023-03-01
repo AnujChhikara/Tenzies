@@ -10,7 +10,7 @@ import Confetti from "react-confetti"
 function App() {
   const[dice, setDice] = useState(allNewDice())
   const[tenzies, setTenzies] = useState(false)
-  const[score, setScore] = useState(100)
+  const[score, setScore] = useState(120)
   const[text, setText] = useState("Let's Play!")
   
 
